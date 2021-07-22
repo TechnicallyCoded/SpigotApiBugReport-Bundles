@@ -1,0 +1,4 @@
+name: SpigotApiBugReportBundles
+version: ${project.version}
+main: com.nuclyon.technicallycoded.spigotapibugreportbundles.SpigotApiBugReportBundles
+api-version: 1.17
